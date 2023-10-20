@@ -1,6 +1,6 @@
 # profile
 <p align="left">
-  <a href="https://github.com/migawarisan/migawarisan/">
+  <a href="https://github.com/migawarisan/">
     <img src="https://komarev.com/ghpvc/?username=migawarisan" alt="migawarisan" />
   </a>
   <a href="http://twitter.com/yutkat">
