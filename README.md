@@ -9,4 +9,4 @@
   <a href="https://github.com/migawarisan">
     <img height="20" src="https://img.shields.io/github/followers/migawarisan?label=follow&logo=github&style=flat" />
   </a>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=migawarisan)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
