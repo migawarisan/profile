@@ -22,3 +22,7 @@
   <P>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=migawarisan&theme=blue_green" alt="graph"/>
   </p>
+  <P align="left">
+   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=migawarisan&theme=blue_green" alt="maru" />
+   <img src="(http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=migawarisan&theme=blue_green&utcOffset=8" alt="bou" />
+  </P>
