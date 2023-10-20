@@ -22,9 +22,9 @@
    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=migawarisan&theme=blue_green" alt="maru" />
    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=migawarisan&theme=blue_green&utcOffset=8" alt="bou" />
   </P>
-  <a href="https://trackgit.com">
-    <img src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/lnyppxn7aza2yufeivhl" alt="trackgit-views" />
-  </a>
   <P>
     <img alt="github contribution" height="150px" src="./github-user-contribution.svg"/>
   </P>
+    <a href="https://trackgit.com">
+    <img src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/lnyppxn7aza2yufeivhl" alt="trackgit-views" />
+  </a>
