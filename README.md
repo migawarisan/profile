@@ -9,4 +9,3 @@
   <a href="https://github.com/migawarisan">
     <img height="20" src="https://img.shields.io/github/followers/migawarisan?label=follow&logo=github&style=flat" />
   </a>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=migawarisan&show_icons=true&theme=radical)
