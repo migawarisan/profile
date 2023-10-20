@@ -19,3 +19,6 @@
   <a href="https://trackgit.com">
     <img src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/lnyppxn7aza2yufeivhl" alt="trackgit-views" />
   </a>
+  <P>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=migawarisan&theme=blue_green" alt="graph"/>
+  </p>
