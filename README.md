@@ -1,5 +1,5 @@
 # Migawarosan
-<p align="left">
+<p>
   <a href="https://github.com/migawarisan/profile">
     <img src="https://komarev.com/ghpvc/?username=migawarisan" alt="migawarisan" />
   </a>
